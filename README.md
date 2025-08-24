@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kousthubh142/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kousthubh142/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kousthubh142/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kousthubh142/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kousthubh142/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kousthubh142/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kousthubh142/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
