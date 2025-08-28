@@ -6,36 +6,22 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> post;
-        if (root == NULL) {
-            return post;
-        }
-        stack<TreeNode*> st;
-        TreeNode* curr = root;
-        TreeNode* last = NULL;
+        vector<int> ans;
+        dfs(root,ans);
+        return ans;
+    }
+private:
+    void dfs(TreeNode* root, vector<int>& ans) {
+        if(!root) return;
 
-        while (curr != NULL || !st.empty()) {
-            if (curr != NULL) {
-                st.push(curr);
-                curr = curr->left;
-            } else {
-                TreeNode* temp = st.top();
-                if (temp->right != NULL && last != temp->right) {
-                    curr = temp->right;
-                } else {
-                    post.push_back(temp->val);
-                    last = temp;
-                    st.pop();
-                }
-            }
-        }
-        return post;
+        dfs(root->left,ans);
+        dfs(root->right,ans);
+        ans.push_back(root->val);
     }
 };
