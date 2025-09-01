@@ -252,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1480-movie-rating](https://github.com/Kousthubh142/LEETCODE/tree/master/1480-movie-rating) |
 <!---LeetCode Topics End-->
