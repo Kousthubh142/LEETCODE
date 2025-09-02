@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kousthubh142/LEETCODE/tree/master/0048-rotate-image) |
+| [0738-monotone-increasing-digits](https://github.com/Kousthubh142/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-movie-rating](https://github.com/Kousthubh142/LEETCODE/tree/master/1480-movie-rating) |
+## Greedy
+|  |
+| ------- |
+| [0738-monotone-increasing-digits](https://github.com/Kousthubh142/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 <!---LeetCode Topics End-->
