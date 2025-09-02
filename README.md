@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kousthubh142/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kousthubh142/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kousthubh142/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kousthubh142/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
