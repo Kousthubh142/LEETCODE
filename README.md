@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kousthubh142/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/Kousthubh142/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kousthubh142/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kousthubh142/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kousthubh142/LEETCODE/tree/master/0048-rotate-image) |
 | [0738-monotone-increasing-digits](https://github.com/Kousthubh142/LEETCODE/tree/master/0738-monotone-increasing-digits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Simulation
 |  |
 | ------- |
@@ -268,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Kousthubh142/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
