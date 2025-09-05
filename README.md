@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Kousthubh142/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Kousthubh142/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## String
 |  |
 | ------- |
@@ -304,9 +305,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Kousthubh142/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Kousthubh142/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Kousthubh142/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
