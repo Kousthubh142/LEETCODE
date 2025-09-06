@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Kousthubh142/LEETCODE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Kousthubh142/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kousthubh142/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Kousthubh142/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kousthubh142/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kousthubh142/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kousthubh142/LEETCODE/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Kousthubh142/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Kousthubh142/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## String
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kousthubh142/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kousthubh142/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
