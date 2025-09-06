@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kousthubh142/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Kousthubh142/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Sorting
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kousthubh142/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Kousthubh142/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kousthubh142/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
