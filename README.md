@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kousthubh142/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Kousthubh142/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kousthubh142/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kousthubh142/LEETCODE/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0738-monotone-increasing-digits](https://github.com/Kousthubh142/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 | [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -336,5 +338,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
