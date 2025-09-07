@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kousthubh142/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Kousthubh142/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kousthubh142/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kousthubh142/LEETCODE/tree/master/0048-rotate-image) |
 | [0738-monotone-increasing-digits](https://github.com/Kousthubh142/LEETCODE/tree/master/0738-monotone-increasing-digits) |
+| [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3830-find-closest-person](https://github.com/Kousthubh142/LEETCODE/tree/master/3830-find-closest-person) |
 ## Simulation
@@ -327,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kousthubh142/LEETCODE/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
