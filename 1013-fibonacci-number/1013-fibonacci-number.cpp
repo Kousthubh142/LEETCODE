@@ -1,10 +1,18 @@
 class Solution {
 public:
-    vector<int> dp = vector<int>(31, -1);
     int fib(int n) {
-        if(n<=1) return n;
-        if(dp[n]!=-1) return dp[n];
+        if(n == 0) return 0;
+        if(n == 1) return 1;
 
-        return dp[n]=fib(n-1)+fib(n-2);
+        int prev2 = 0;
+        int prev = 1;
+        int cur;
+
+        for(int i=2; i<=n; i++) {
+            cur = prev + prev2;
+            prev2=prev;
+            prev=cur;
+        }
+        return prev;
     }
 };
