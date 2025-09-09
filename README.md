@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kousthubh142/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3709-find-special-substring-of-length-k](https://github.com/Kousthubh142/LEETCODE/tree/master/3709-find-special-substring-of-length-k) |
 ## Design
 |  |
 | ------- |
