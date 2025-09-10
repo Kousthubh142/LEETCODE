@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kousthubh142/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kousthubh142/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Kousthubh142/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Kousthubh142/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Kousthubh142/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Kousthubh142/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0493-reverse-pairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kousthubh142/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
