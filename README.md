@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kousthubh142/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Kousthubh142/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kousthubh142/LEETCODE/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Kousthubh142/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -289,12 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kousthubh142/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3709-find-special-substring-of-length-k](https://github.com/Kousthubh142/LEETCODE/tree/master/3709-find-special-substring-of-length-k) |
 ## Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Kousthubh142/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
