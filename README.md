@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kousthubh142/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kousthubh142/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kousthubh142/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Kousthubh142/LEETCODE/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Kousthubh142/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kousthubh142/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Kousthubh142/LEETCODE/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Kousthubh142/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Kousthubh142/LEETCODE/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Kousthubh142/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## String
 |  |
@@ -365,4 +367,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Kousthubh142/LEETCODE/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
