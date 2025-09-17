@@ -1,21 +1,20 @@
 class Solution {
 public:
-    vector<int> dp=vector<int>(101,-1);
-    int recur(vector<int> &nums,int n) {
-        if(n==0) return nums[0];
-        if(n<0) return 0;
-
-        if(dp[n]!=-1) return dp[n];
-
-        int pick=nums[n]+recur(nums,n-2);
-        int notpick=0+recur(nums,n-1);
-
-        return dp[n]=max(pick,notpick);
-    }
-
     int rob(vector<int>& nums) {
         int n=nums.size()-1;
-        int ans=recur(nums,n);
-        return ans;
+
+        int prev=nums[0];
+        int prev2=0;
+
+        for(int i=1;i<=n;i++) {
+            int pick=nums[i];
+            if(i>1) pick+=prev2;
+            int notpick=prev;
+
+            int cur=max(pick,notpick);
+            prev2=prev;
+            prev=cur;
+        }
+        return prev;
     }
 };
