@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kousthubh142/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Kousthubh142/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Kousthubh142/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Kousthubh142/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kousthubh142/LEETCODE/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Kousthubh142/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Kousthubh142/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0738-monotone-increasing-digits](https://github.com/Kousthubh142/LEETCODE/tree/master/0738-monotone-increasing-digits) |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Kousthubh142/LEETCODE/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kousthubh142/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
