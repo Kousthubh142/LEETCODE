@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kousthubh142/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0967-minimum-falling-path-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kousthubh142/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kousthubh142/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Kousthubh142/LEETCODE/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kousthubh142/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kousthubh142/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kousthubh142/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kousthubh142/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0967-minimum-falling-path-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
