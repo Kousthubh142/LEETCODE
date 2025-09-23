@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Kousthubh142/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kousthubh142/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Kousthubh142/LEETCODE/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Kousthubh142/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Kousthubh142/LEETCODE/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kousthubh142/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Kousthubh142/LEETCODE/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Kousthubh142/LEETCODE/tree/master/0455-assign-cookies) |
 | [0738-monotone-increasing-digits](https://github.com/Kousthubh142/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 | [1917-maximum-average-pass-ratio](https://github.com/Kousthubh142/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
