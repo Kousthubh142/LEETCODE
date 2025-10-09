@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kousthubh142/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kousthubh142/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/Kousthubh142/LEETCODE/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Kousthubh142/LEETCODE/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Kousthubh142/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/Kousthubh142/LEETCODE/tree/master/0338-counting-bits) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Kousthubh142/LEETCODE/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Kousthubh142/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## String
