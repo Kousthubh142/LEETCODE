@@ -9,12 +9,9 @@ public:
                 count=1;
                 ele=nums[i];
             }
-            else if(nums[i]==ele){
-                count++;
-            }
-            else {
-                count--;
-            }
+
+            else if(nums[i]==ele) count++;
+            else count--;
         }
 
         return ele;
