@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Kousthubh142/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Kousthubh142/LEETCODE/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Kousthubh142/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Kousthubh142/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kousthubh142/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kousthubh142/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Kousthubh142/LEETCODE/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Kousthubh142/LEETCODE/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kousthubh142/LEETCODE/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Kousthubh142/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Kousthubh142/LEETCODE/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Kousthubh142/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kousthubh142/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kousthubh142/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Kousthubh142/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/Kousthubh142/LEETCODE/tree/master/0268-missing-number) |
 | [0738-monotone-increasing-digits](https://github.com/Kousthubh142/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 | [1013-fibonacci-number](https://github.com/Kousthubh142/LEETCODE/tree/master/1013-fibonacci-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kousthubh142/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Kousthubh142/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Kousthubh142/LEETCODE/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Kousthubh142/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kousthubh142/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kousthubh142/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Kousthubh142/LEETCODE/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Kousthubh142/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Kousthubh142/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kousthubh142/LEETCODE/tree/master/0338-counting-bits) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Kousthubh142/LEETCODE/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Kousthubh142/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
